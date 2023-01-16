@@ -104,6 +104,3 @@ console.log(findInvalidCards(batch));
 
 console.log(idInvalidCardCompanies(invalidCards));
 
-// console.log(validateCred(valid5));
-
-// console.log(validateCred(invalid5))
